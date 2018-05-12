@@ -1,4 +1,8 @@
 _repo: James-Geikie-the-Man-and-the-Geologist_47871
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47871-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Flett, J. S.
@@ -11,6 +15,8 @@ creator:
     gutenberg_agent_id: '40462'
     url: http://www.gutenberg.org/2009/agents/40462
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47871#James-Geikie-the-Man-and-the-Geologist
 gutenberg_issued: '2015-01-04'
 gutenberg_type: Text
 identifiers:
